@@ -1,5 +1,5 @@
 # Random Nickname Factory
- Dünyada hiçkimsenin kullanmadığı nickname'ler bulmak umuduyla uğraştığım basit bir projedir.
+ Dünyada hiç kimsenin kullanmadığı nickname'ler bulmak umuduyla uğraştığım basit bir projedir.
  
  Nadir olan şeyleri severim. ayrıca kullandığım rumuz ve nickname'lerin başkaları tarafından kullanılmasından hoşlanmam dolayısıyla hiç kimsenin kullanmadığı, 
  arama motorlarında aratıldığında "bunu mu demek istediniz ?" cevabını görmek istediğim nickname'ler oluşturmak için uğraştım.
