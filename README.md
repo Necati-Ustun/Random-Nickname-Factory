@@ -8,4 +8,5 @@
  Örneğin çoğu yerde kullandığım "Siyawy" ismi aslında bu program tarafından Siyawi olarak oluşturulmuştur fakat zamanla Siyawy olarak şekillenmiştir.
  
  
- ![unused_name](https://user-images.githubusercontent.com/86047518/173439583-6a342b66-6b0e-4b04-81c4-f654d1db8646.PNG)
+
+![unused_name](https://user-images.githubusercontent.com/86047518/173440822-c5aa3c41-6e3e-4994-b895-c5465f0b3f44.PNG)
